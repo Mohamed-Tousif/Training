@@ -1,0 +1,27 @@
+﻿<html>
+<head>
+    <script>
+        var num = parseInt(prompt("Enter the number"));
+        var text = parseInt(prompt("convert the number  to 2: binary , 8:octal , 10: decimal, 16:hexadecimal "));
+        switch (text) {
+            case 2:
+                document.write("This is binary form of given number - " + num.toString(2));
+                break;
+            case 8:
+                document.write("This is octal form of given number - " + num.toString(8));
+                break;
+            case 10:
+                document.write("This is decimal form of given number - " + num.toString(10));
+                break;
+            case 16:
+                document.write("This is hexadecimal form of given number - " + num.toString(16));
+                break;
+            default:
+                document.write("you cannot use this form");
+
+        }
+
+    </script>
+</head>
+<body></body>
+</html>
