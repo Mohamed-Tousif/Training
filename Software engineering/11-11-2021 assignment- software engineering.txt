@@ -1,0 +1,21 @@
+
+Change Request (CR) :
+	A change request is a proposal from a stakeholder in the software development process to change something in a product or in a product process.
+	Common change requests include defects and requests for product enhancements or new features.
+	Example- The Project: Build a house on a designated lot according to its architectural plans. 
+		 The Change: Add a bedroom over the garage—the house construction is already in process.
+	There are three types of change that all managers have to be aware of: these are Developmental Change; Transitional Change and Transformational Change.
+
+Requirement Traceability Matrix (RTM) :
+	It is a document that maps and traces user requirement with test cases. 
+	It captures all requirements proposed by the client and requirement traceability in a single document, delivered at the conclusion of the Software developement           life cycle. 
+	The main purpose of Requirement Traceability Matrix is to validate that all requirements are checked via test cases such that no functionality is unchecked         during Software testing.
+
+Coding Standards :
+	A coding standard gives a uniform appearance to the codes written by different engineers. 
+	It improves readability, and maintainability of the code and it reduces complexity also. It helps in code reuse and helps to detect error easily. 
+	It promotes sound programming practices and increases efficiency of the programmers.
+
+Base line :
+	A baseline is milestone and reference point in software development that is marked by completion or delivery of one or more software configuration items and           formal approval of set of predefined products is obtained through formal technical review.
+
