@@ -1,0 +1,7 @@
+Test-driven development : 
+	It is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases.
+	Test-driven development (TDD) is a development technique where you must first write a test that fails before you write new functional code. TDD is being quickly adopted by agile software developers for development of application source code and is even being adopted by Agile DBAs for database development.
+
+Refactoring :
+	Changing the internal structure of the code in a way that doesn't modify its behavior. This makes the code more maintainable and easier to understand. It enables the developers in the team to keep complexity under control.
+	Code refactoring is a process used in the DevOps software development approach that involves editing and cleaning up previously written software code without changing the function of the code at all. The basic purpose of code refactoring is to make the code more efficient and maintainable.
